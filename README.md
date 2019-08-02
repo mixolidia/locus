@@ -10,7 +10,7 @@ Swap it out with your actual wireframes...
 
 ## TODO: Submit your ERD in the form of a pull request
 
-This example Entity Relational Diagram lives in `readme_assets/erd_example.png`
+This ERD was created online. View it [here](https://editor.ponyorm.com/user/dmmmd/miim).
 
 ![ERD Example](readme_assets/erd.png)
 
