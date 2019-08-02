@@ -12,7 +12,7 @@ Swap it out with your actual wireframes...
 
 This example Entity Relational Diagram lives in `readme_assets/erd_example.png`
 
-![ERD Example](readme_assets/erd_example.png)
+![ERD Example](readme_assets/erd.png)
 
 Swap it out with your actual ERD...
 
