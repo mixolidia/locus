@@ -6,7 +6,7 @@ This example wireframe lives in `readme_assets/wireframe_example.jpg`
 
 Swap it out with your actual wireframes...
 
-![Wireframe Example](https://docs.google.com/document/d/165dzLR5-saUitkK95jK9lcBdRyt-8RJiMnsST0VZ-vA/edit?usp=sharing)
+![Wireframe Example](./readme_assets/inbetween_wire_frames.pdf)
 
 ## TODO: Submit your ERD in the form of a pull request
 
