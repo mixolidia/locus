@@ -1,6 +1,8 @@
-# Final Project
+# LOCUS
 
-## TODO: Submit your wireframes in the form of a pull request
+## Final Project
+
+### TODO: Submit your wireframes in the form of a pull request
 
 This example wireframe lives in `readme_assets/wireframe_example.jpg`
 
