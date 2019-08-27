@@ -44,6 +44,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'faker'
   gem 'hirb'
+  gem 'dotenv-rails'
 end
 
 group :test do
