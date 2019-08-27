@@ -30,4 +30,6 @@
 yarn-debug.log*
 .yarn-integrity
 .env
-.github
+
+# Ignore these folders
+.github/
